@@ -23,4 +23,4 @@ The model uses the `heart_failure_clinical_records_dataset.csv`, which includes:
 ## ⚙️ How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/aiml-projects.git](https://github.com/YOUR_USERNAME/aiml-projects.git)
+   git clone [https://github.com/Taranworkhub/AIML-PROJECT-ON-HEART-FAILURE.git](https://github.com/Taranworkhub/AIML-PROJECT-ON-HEART-FAILURE.git)
